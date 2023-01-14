@@ -18,5 +18,8 @@
   "homepage": "https://github.com/jainayush91/adaptive#readme",
   "dependencies": {
     "cypress": "^12.3.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.2.3"
   }
 }
